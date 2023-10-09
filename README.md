@@ -1,2 +1,2 @@
-# wipeoutx
-Delete all tweets for free
+# WipeoutX
+Delete your tweets for free
