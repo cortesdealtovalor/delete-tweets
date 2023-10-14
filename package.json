@@ -1,0 +1,31 @@
+{
+  "name": "delete-old-tweets",
+  "version": "1.0.0",
+  "description": "cmd that deletes old tweets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ben shi",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.2",
+    "got": "^11.8.3",
+    "needle": "^3.2.0",
+    "node-fetch": "^2.7.0",
+    "node-localstorage": "^3.0.5",
+    "oauth-1.0a": "^2.2.6",
+    "open-uri": "^0.4.3",
+    "openurl": "^1.1.1",
+    "store": "^2.0.12",
+    "twitter": "^1.7.1",
+    "twitter-api-v2": "^1.15.2",
+    "yargs": "^17.5.1"
+  },
+  "devDependencies": {
+    "open": "^9.1.0"
+  }
+}
